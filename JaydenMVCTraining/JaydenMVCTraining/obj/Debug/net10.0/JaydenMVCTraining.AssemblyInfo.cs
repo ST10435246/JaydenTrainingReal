@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JaydenMVCTraining")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d1e4e45aafa023b30e6cd6b23a3a059576b462")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f7ff735f524bd9dc0a091a531525f46144f2ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("JaydenMVCTraining")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JaydenMVCTraining")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

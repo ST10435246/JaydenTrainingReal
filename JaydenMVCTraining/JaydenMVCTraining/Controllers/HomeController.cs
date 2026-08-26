@@ -14,6 +14,7 @@ namespace JaydenMVCTraining.Controllers
         public IActionResult Privacy()
         {
             return View();
+            //YES
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
