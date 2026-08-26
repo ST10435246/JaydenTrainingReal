@@ -3410,23 +3410,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jfkra\\.nuget\\packages\\": {},
+    "C:\\Users\\emeris\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jfkra\\OneDrive\\EMERIS\\JaydenTraining\\JaydenMVCTraining\\JaydenMVCTraining\\JaydenMVCTraining.csproj",
+      "projectUniqueName": "C:\\Users\\emeris\\Desktop\\JaydenTrainingReal\\JaydenMVCTraining\\JaydenMVCTraining\\JaydenMVCTraining.csproj",
       "projectName": "JaydenMVCTraining",
-      "projectPath": "C:\\Users\\jfkra\\OneDrive\\EMERIS\\JaydenTraining\\JaydenMVCTraining\\JaydenMVCTraining\\JaydenMVCTraining.csproj",
-      "packagesPath": "C:\\Users\\jfkra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jfkra\\OneDrive\\EMERIS\\JaydenTraining\\JaydenMVCTraining\\JaydenMVCTraining\\obj\\",
+      "projectPath": "C:\\Users\\emeris\\Desktop\\JaydenTrainingReal\\JaydenMVCTraining\\JaydenMVCTraining\\JaydenMVCTraining.csproj",
+      "packagesPath": "C:\\Users\\emeris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emeris\\Desktop\\JaydenTrainingReal\\JaydenMVCTraining\\JaydenMVCTraining\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jfkra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\emeris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3454,7 +3454,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
@@ -3506,7 +3506,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
